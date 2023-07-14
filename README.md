@@ -1,0 +1,2 @@
+# ackerman
+setting up git
